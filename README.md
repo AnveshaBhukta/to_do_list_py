@@ -1,0 +1,1 @@
+This Python script is a simple command-line To-Do list application. It allows users to manage tasks by adding new tasks, viewing the current list of tasks, marking tasks as done, editing tasks, and deleting tasks. The application runs in a loop, continuously prompting the user for input until they choose to exit.
